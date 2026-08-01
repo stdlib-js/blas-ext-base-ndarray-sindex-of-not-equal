@@ -22,6 +22,7 @@
 
 <details>
 
+-   [`7c04275`](https://github.com/stdlib-js/stdlib/commit/7c04275a9a0843b2031922a8d98af83869d092e7) - **docs:** clean-up [(#13833)](https://github.com/stdlib-js/stdlib/pull/13833) _(by Philipp Burckhardt)_
 -   [`321bbd8`](https://github.com/stdlib-js/stdlib/commit/321bbd80199d4fc09e59e5d00bd0996fed349005) - **feat:** add `blas/ext/base/ndarray/sindex-of-not-equal` [(#13560)](https://github.com/stdlib-js/stdlib/pull/13560) _(by Muhammad Haris, Athan Reines)_
 
 </details>
@@ -34,10 +35,11 @@
 
 ### Contributors
 
-A total of 2 people contributed to this release. Thank you to the following contributors:
+A total of 3 people contributed to this release. Thank you to the following contributors:
 
 -   Athan Reines
 -   Muhammad Haris
+-   Philipp Burckhardt
 
 </section>
 
