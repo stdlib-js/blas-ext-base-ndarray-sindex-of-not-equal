@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-09-25)
+## Unreleased (2026-11-11)
 
 <section class="features">
 
@@ -35,6 +35,7 @@
 
 <details>
 
+-   [`78ad2fa`](https://github.com/stdlib-js/stdlib/commit/78ad2fa5dbb12ce808dec93197d5343745ff91b8) - **docs:** normalize trailing newlines in REPL help texts [(#16420)](https://github.com/stdlib-js/stdlib/pull/16420) _(by Philipp Burckhardt)_
 -   [`3942bbc`](https://github.com/stdlib-js/stdlib/commit/3942bbcc7b4be8eb4ce0491095b9e8389ed26344) - **feat:** add `fromIndex` support to `blas/ext/base/ndarray/sindex-of-not-equal` [(#14561)](https://github.com/stdlib-js/stdlib/pull/14561) _(by Muhammad Haris)_
 -   [`7c04275`](https://github.com/stdlib-js/stdlib/commit/7c04275a9a0843b2031922a8d98af83869d092e7) - **docs:** clean-up [(#13833)](https://github.com/stdlib-js/stdlib/pull/13833) _(by Philipp Burckhardt)_
 -   [`321bbd8`](https://github.com/stdlib-js/stdlib/commit/321bbd80199d4fc09e59e5d00bd0996fed349005) - **feat:** add `blas/ext/base/ndarray/sindex-of-not-equal` [(#13560)](https://github.com/stdlib-js/stdlib/pull/13560) _(by Muhammad Haris, Athan Reines)_
